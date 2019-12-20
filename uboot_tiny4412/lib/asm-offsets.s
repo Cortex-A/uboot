@@ -211,8 +211,6 @@ main:
 	.ascii	"long unsigned int\000"
 .LASF7:
 	.ascii	"long long unsigned int\000"
-.LASF13:
-	.ascii	"/home/ubuntu/jiabin.chen/uboot_tiny4412\000"
 .LASF0:
 	.ascii	"unsigned char\000"
 .LASF12:
@@ -231,6 +229,8 @@ main:
 	.ascii	"terwork -march=armv7-a -mtls-dialect=gnu -g -Os -fn"
 	.ascii	"o-common -ffixed-r8 -fno-builtin -ffreestanding -fn"
 	.ascii	"o-stack-protector\000"
+.LASF13:
+	.ascii	"/home/ubuntu/jiabin.chen/uboot/uboot_tiny4412\000"
 .LASF4:
 	.ascii	"short int\000"
 .LASF8:
